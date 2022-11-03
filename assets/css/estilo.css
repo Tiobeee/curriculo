@@ -1,0 +1,17 @@
+*{
+    background-color: rgba(0, 128, 0, 0.096);
+}
+
+.esquerda{
+    padding: 10px;
+    padding-right: 600px;
+    text-align: left;
+    text-decoration: solid;
+}
+
+img.eu{
+    border-radius: 100%;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+}
