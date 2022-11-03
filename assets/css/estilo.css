@@ -3,10 +3,12 @@
 }
 
 .esquerda{
-    padding: 10px;
-    padding-right: 600px;
-    text-align: left;
-    text-decoration: solid;
+   height: 1000px;
+   border: solid 1px;
+   float: left;
+   padding: 25px;
+   width: 500px;
+   
 }
 
 img.eu{
@@ -15,3 +17,17 @@ img.eu{
     height: 200px;
     width: 200px;
 }
+
+.direita{
+    border: solid 1px;
+    float: left;
+    padding: 25px;
+    width: 500px;
+}
+
+.tudo{
+    height: 1500px;
+    width: 1000px;
+    display: inline;
+}
+
